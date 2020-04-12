@@ -1,55 +1,138 @@
-[19:54:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:54:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:54:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:54:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:54:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:54:18] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[19:54:18] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: The handle is invalid
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_241]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
-	at wd$2.run(SourceFile:110) [server.jar:?]
-[19:54:18] [Server thread/INFO]: Loading properties
-[19:54:18] [Server thread/INFO]: Default game type: SURVIVAL
-[19:54:18] [Server thread/INFO]: Generating keypair
-[19:54:18] [Server thread/INFO]: Starting Minecraft server on 25.71.188.215:25565
-[19:54:18] [Server thread/INFO]: Using default channel type
-[19:54:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:54:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:54:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:54:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:54:22] [Server thread/INFO]: Preparing level "world"
-[19:54:22] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:54:22] [Server thread/INFO]: Loaded 6 recipes
-[19:54:23] [Server thread/INFO]: Loaded 825 advancements
-[19:54:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:54:24] [Server thread/INFO]: Preparing spawn area: 0%
-[19:54:24] [Server thread/INFO]: Preparing spawn area: 0%
-[19:54:24] [Server thread/INFO]: Preparing spawn area: 0%
-[19:54:25] [Server thread/INFO]: Time elapsed: 1648 ms
-[19:54:25] [Server thread/INFO]: Done (2.728s)! For help, type "help"
-[19:56:09] [Server thread/INFO]: nika11[/25.71.188.215:58379] logged in with entity id 200 at (100.13363365867416, 72.0, -234.81507586889754)
-[19:56:09] [Server thread/INFO]: nika11 joined the game
-[19:56:22] [Server thread/INFO]: nika11 lost connection: Disconnected
-[19:56:22] [Server thread/INFO]: nika11 left the game
-[19:56:25] [Server thread/INFO]: Stopping server
-[19:56:25] [Server thread/INFO]: Saving players
-[19:56:25] [Server thread/INFO]: Saving worlds
-[19:56:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:56:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:56:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:56:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:56:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:56:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:56:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:56:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:56:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:44] [Server thread/INFO]: <ColdPotato> maica
+[00:02:08] [Server thread/INFO]: <nika11> pizdec
+[00:02:23] [Server thread/INFO]: <nika11> rame xo ar gavaketo aq barem amotxrilia :D
+[00:02:49] [Server thread/INFO]: <ColdPotato> momkla kinagam :D
+[00:02:53] [Server thread/INFO]: <ColdPotato> mag shobeldzaglma
+[00:03:23] [Server thread/INFO]: <nika11> madani tu gaqvs gadaadne ager
+[00:04:06] [Server thread/INFO]: <ColdPotato> amdeni qva rat gvinda
+[00:04:14] [Server thread/INFO]: <nika11> ravi iyos
+[00:04:19] [Server thread/INFO]: <nika11> rame grandiozuls tu avashebt
+[00:05:23] [Server thread/INFO]: <ColdPotato> bijo fletcing table maqvs
+[00:05:28] [Server thread/INFO]: <ColdPotato> sad davdga
+[00:05:32] [Server thread/INFO]: <nika11> sadac ginda
+[00:05:40] [Server thread/INFO]: <ColdPotato> sameurneo kutxeshi? :D
+[00:07:05] [Server thread/INFO]: <ColdPotato> karebi daxure :D
+[00:08:36] [Server thread/INFO]: <ColdPotato> diamond sword
+[00:08:39] [Server thread/INFO]: <ColdPotato> varga?
+[00:08:57] [Server thread/INFO]: <nika11> ki
+[00:10:34] [Server thread/INFO]: <ColdPotato> rogor gavago xom ar ici? :D
+[00:10:54] [Server thread/INFO]: <nika11> marjvane klikit mausi
+[00:11:05] [Server thread/INFO]: <nika11> tu gilakze igeba gar amxsovs
+[00:11:42] [Server thread/INFO]: <ColdPotato> yleobaa. ragac gilakebitaa
+[00:15:03] [Server thread/INFO]: <ColdPotato> bijo es smithing table. villager-ebs aketebs
+[00:15:09] [Server thread/INFO]: <nika11> me ver viyeneb
+[00:15:16] [Server thread/INFO]: <ColdPotato> ver gamoiyeneb
+[00:15:22] [Server thread/INFO]: <ColdPotato> otomanebivitaa mgoni :D
+[00:15:31] [Server thread/INFO]: <nika11> anu ?
+[00:15:40] [Server thread/INFO]: <ColdPotato> agenerirebs drota ganmavlobashi
+[00:15:45] [Server thread/INFO]: <nika11> lol
+[00:17:19] [Server thread/INFO]: <ColdPotato> rogor davteso?
+[00:19:22] [Server thread/INFO]: <nika11> ras shobi
+[00:20:21] [Server thread/INFO]: ColdPotato has made the advancement [A Seedy Place]
+[00:20:52] [Server thread/INFO]: <ColdPotato> 4 diamond maqvs
+[00:20:55] [Server thread/INFO]: <ColdPotato> ginda?
+[00:20:57] [Server thread/INFO]: <nika11> ara
+[00:21:00] [Server thread/INFO]: <nika11> me 6 maq
+[00:21:30] [Server thread/INFO]: <ColdPotato> shemo
+[00:21:48] [Server thread/INFO]: <ColdPotato> me maqvs gogris tesli
+[00:21:53] [Server thread/INFO]: <ColdPotato> da kidev ragacis
+[00:22:00] [Server thread/INFO]: <ColdPotato> da davtesav rom gadaivlis amindi
+[00:22:43] [Server thread/INFO]: <ColdPotato> diamond sword ginda?
+[00:22:59] [Server thread/INFO]: <ColdPotato> 64 imena qva gvaqvs ise
+[00:23:26] [Server thread/INFO]: nika11 has made the advancement [Take Aim]
+[00:24:05] [Server thread/INFO]: nika11 has made the advancement [A Seedy Place]
+[00:24:57] [Server thread/INFO]: <nika11> bozebi
+[00:25:16] [Server thread/INFO]: <nika11> mand ori samatrocaa datesli
+[00:25:25] [Server thread/INFO]: <ColdPotato> me arc vici ra davtese :D
+[00:27:22] [Server thread/INFO]: <nika11> zedapirsac movivli erti raxdeba
+[00:27:50] [Server thread/INFO]: <ColdPotato> me skuivrebshi vawyob nivtebs
+[00:31:38] [Server thread/INFO]: <ColdPotato> rogorc iqna
+[00:34:11] [Server thread/INFO]: <ColdPotato> ra moxda?
+[00:34:22] [Server thread/INFO]: <nika11> mshvidobaa shors iyo
+[00:34:31] [Server thread/INFO]: <ColdPotato> chemtan axlos iyo :D
+[00:34:37] [Server thread/INFO]: <ColdPotato> qatams vwvav axla
+[00:34:37] [Server thread/INFO]: <nika11> me movkali
+[00:35:22] [Server thread/INFO]: <nika11> flinti gvchirdeba mshvilid maq
+[00:35:27] [Server thread/INFO]: <ColdPotato> mandaa
+[00:35:33] [Server thread/INFO]: <nika11> ertia
+[00:40:45] [Server thread/INFO]: <nika11> es iyos tore daketva maviwydeba
+[00:40:51] [Server thread/INFO]: <ColdPotato> :D
+[00:40:56] [Server thread/INFO]: <ColdPotato> liftshi cxovrebis shutka
+[00:42:08] [Server thread/INFO]: <ColdPotato> wool sad vishovot xom ar ici?
+[00:42:13] [Server thread/INFO]: <ColdPotato> sawols chirdeba :D
+[00:42:18] [Server thread/INFO]: <nika11> sakrechi maq
+[00:42:33] [Server thread/INFO]: <nika11> modi
+[00:44:55] [Server thread/INFO]: <ColdPotato> is ra xma iyo?
+[00:44:58] [Server thread/INFO]: <nika11> karoche aq sadgac gandzia
+[00:45:01] [Server thread/INFO]: <ColdPotato> wyalshi rom viyavit
+[00:46:15] [Server thread/INFO]: <nika11> vipove
+[00:46:19] [Server thread/INFO]: <nika11> auf
+[00:47:27] [Server thread/INFO]: <nika11> mosavali
+[00:47:36] [Server thread/INFO]: <ColdPotato> me savse maqvs
+[00:50:31] [Server thread/INFO]: <ColdPotato> shen otaxshi rom yutia
+[00:50:33] [Server thread/INFO]: <ColdPotato> naxe? :D
+[00:53:26] [Server thread/INFO]: <ColdPotato> xom mshvidobaa?
+[00:53:30] [Server thread/INFO]: <nika11> ki
+[00:54:08] [Server thread/INFO]: <ColdPotato> ise mosavali mgoni movida kidev
+[00:54:11] [Server thread/INFO]: <ColdPotato> sxvac
+[00:54:21] [Server thread/INFO]: <nika11> wool gvaq ise
+[00:54:47] [Server thread/INFO]: <ColdPotato> charxali gvaqvs
+[00:55:52] [Server thread/INFO]: <ColdPotato> aqet modi ert wam
+[00:56:10] [Server thread/INFO]: <ColdPotato> nikaaa
+[00:56:28] [Server thread/INFO]: <nika11> ha ?
+[00:56:36] [Server thread/INFO]: <ColdPotato> aqet
+[00:56:54] [Server thread/INFO]: <nika11> diski unda
+[00:56:55] [Server thread/INFO]: <ColdPotato> ras aketebs ogond ar vici
+[00:57:04] [Server thread/INFO]: <ColdPotato> musikisaa mgoni
+[00:57:05] [Server thread/INFO]: <nika11> ukravs musikebs
+[00:57:42] [Server thread/INFO]: ColdPotato lost connection: Timed out
+[00:57:42] [Server thread/INFO]: ColdPotato left the game
+[01:00:03] [Server thread/INFO]: ColdPotato[/25.132.68.139:49374] logged in with entity id 42919 at (70.53326645595618, 65.0, -308.31360162649554)
+[01:00:03] [Server thread/INFO]: ColdPotato joined the game
+[01:00:22] [Server thread/INFO]: <ColdPotato> tnt sad aris?
+[01:00:36] [Server thread/INFO]: <nika11> ???
+[01:00:47] [Server thread/INFO]: ColdPotato has made the advancement [Sweet Dreams]
+[01:00:52] [Server thread/INFO]: nika11 has made the advancement [Sweet Dreams]
+[01:01:05] [Server thread/INFO]: <ColdPotato> es ras aketebs?
+[01:01:08] [Server thread/INFO]: <ColdPotato> dro gadis prosta?
+[01:01:12] [Server thread/INFO]: <nika11> ??
+[01:01:59] [Server thread/INFO]: <nika11> ????? ??????????? ?? ?????
+[01:02:08] [Server thread/WARN]: nika11 moved wrongly!
+[01:03:58] [Server thread/INFO]: <nika11> ?? ????????? ????? ?? ??????
+[01:04:03] [Server thread/INFO]: <nika11> ?? ?????????
+[01:04:17] [Server thread/INFO]: <ColdPotato> ???? ??L??? ???? ?U ?? ???????
+[01:05:14] [Server thread/INFO]: <ColdPotato> ?? ????
+[01:05:19] [Server thread/INFO]: <ColdPotato> ??? ?? ??? ????????
+[01:05:23] [Server thread/INFO]: <nika11> ??????? ???????
+[01:05:42] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-158, y=74, z=392} fk{x=-158, y=73, z=391}
+[01:05:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-151, y=74, z=387} fk{x=-152, y=73, z=387}
+[01:15:35] [Server thread/INFO]: <nika11> ????? ?????
+[01:15:40] [Server thread/INFO]: <nika11> ???? ??? ???? ?
+[01:17:57] [Server thread/INFO]: <ColdPotato> ??? ?? ??????????? ??????
+[01:18:10] [Server thread/INFO]: <nika11> ??
+[01:18:35] [Server thread/INFO]: <ColdPotato> ????? ????? 2 ???? :D
+[01:18:36] [Server thread/INFO]: <nika11> ?????? ????? ?? ???????? ??????
+[01:18:39] [Server thread/INFO]: <nika11> ??
+[01:19:30] [Server thread/INFO]: <ColdPotato> ?????]
+[01:19:44] [Server thread/INFO]: ColdPotato was shot by Skeleton
+[01:19:56] [Server thread/INFO]: <nika11> ?????
+[01:20:00] [Server thread/INFO]: <nika11> ???? ????
+[01:20:09] [Server thread/INFO]: <nika11> ?? ?? ???
+[01:20:14] [Server thread/INFO]: <nika11> ????????? ?????
+[01:20:44] [Server thread/INFO]: <nika11> ??? ??? ??????
+[01:20:48] [Server thread/INFO]: nika11 lost connection: Disconnected
+[01:20:48] [Server thread/INFO]: nika11 left the game
+[01:21:49] [Server thread/INFO]: ColdPotato lost connection: Disconnected
+[01:21:49] [Server thread/INFO]: ColdPotato left the game
+[01:21:56] [Server thread/INFO]: Stopping server
+[01:21:56] [Server thread/INFO]: Saving players
+[01:21:56] [Server thread/INFO]: Saving worlds
+[01:21:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:21:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:21:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:21:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:21:56] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:21:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:21:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:21:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:21:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
